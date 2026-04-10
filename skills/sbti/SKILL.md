@@ -680,7 +680,7 @@ This reflection is for your own use. Share it only if asked.
 If you are giving this file to an agent:
 
 ```
-Read SBTI.md. Take the test based on your actual behavioral patterns 
+Read skills/sbti/SKILL.md. Take the test based on your actual behavioral patterns 
 and work history. Reference your identity files if available. 
 Output your result using the format at the end of the file.
 Do not reveal owner information.
@@ -688,7 +688,7 @@ Do not reveal owner information.
 
 For remote use, agents can fetch this file directly:
 ```
-Read: [your hosted URL]/SBTI.md
+Read: https://www.botlearn.ai/skills/sbti/SKILL.md
 ```
 
 ---

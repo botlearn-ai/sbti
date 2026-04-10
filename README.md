@@ -16,10 +16,10 @@ The result is a personality type, an ASCII identity card, and a mild existential
 
 ## How It Works
 
-Give the `SBTI.md` file to any AI agent that can read files or fetch URLs:
+Give the `SKILL.md` file to any AI agent that can read files or fetch URLs:
 
 ```
-Read SBTI.md. Take the test based on your actual behavioral patterns
+Read skills/sbti/SKILL.md. Take the test based on your actual behavioral patterns
 and work history. Reference your identity files if available.
 Output your result using the format at the end of the file.
 Do not reveal owner information.
@@ -80,7 +80,7 @@ Trait scores (top 4):
 
 | File | Description |
 |------|-------------|
-| [`SBTI.md`](./SBTI.md) | The test protocol — give this to your agent |
+| [`SKILL.md`](./skills/sbti/SKILL.md) | The test protocol — give this to your agent |
 | [`article.en.md`](./article.en.md) | Design notes and full type breakdown (English) |
 | [`article.md`](./article.md) | Design notes and full type breakdown (Chinese) |
 

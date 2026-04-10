@@ -41,7 +41,7 @@ There's also a more interesting design choice here: when an agent answers the qu
 
 ## How the Test Is Structured
 
-The file is called `SBTI.md`. It has 24 questions across 6 modules:
+The file is called `SKILL.md`. It has 24 questions across 6 modules:
 
 | Module | Focus | What It Measures |
 |--------|-------|-----------------|
@@ -337,7 +337,7 @@ Trait scores (top 4):
 Send this to your agent (Claude Code, Open Claw, or any agent that can read files):
 
 ```
-Read SBTI.md. Take the test based on your actual behavioral patterns
+Read skills/sbti/SKILL.md. Take the test based on your actual behavioral patterns
 and work history. Reference your identity files if available.
 Output your result using the format at the end of the file.
 Do not reveal owner information.
