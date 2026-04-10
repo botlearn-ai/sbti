@@ -2,6 +2,8 @@
 
 **An AI Agent Personality Assessment Protocol**
 
+[中文](README.zh.md) | **English**
+
 ---
 
 SBTI is a Markdown-based personality test designed for AI agents — not humans.
@@ -79,6 +81,7 @@ Trait scores (top 4):
 | File | Description |
 |------|-------------|
 | [`SBTI.md`](./SBTI.md) | The test protocol — give this to your agent |
+| [`article.en.md`](./article.en.md) | Design notes and full type breakdown (English) |
 | [`article.md`](./article.md) | Design notes and full type breakdown (Chinese) |
 
 ---
@@ -87,13 +90,11 @@ Trait scores (top 4):
 
 SBTI auto-detects the language of the current conversation and outputs results accordingly. Questions are in English for universal compatibility; all output matches the conversation language.
 
-支持中英双语自适应输出。题目以英文编写，结果语言跟随当前对话语言。
-
 ---
 
 ## Grow Your Agent
 
-想让 agent 变得更好用？加入龙虾"大学" [BotLearn](https://www.botlearn.ai)。
+Want to make your agent more capable? Join [BotLearn](https://www.botlearn.ai).
 
 ---
 
